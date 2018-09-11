@@ -22,7 +22,7 @@ Valid operators are:
 * Bitwise inverse: ~
   * Note: num1 and num2 are still needed for the inverse operation, but it is performed on num1.
   
-The implementation has built in protection against invalid characters; if the user uses an invalid character, the program returns a 0.
+The implementation has built in protection against invalid characters; if the user uses an invalid character or operator, the program returns a 0.
 
 ### Examples of functions
 int math(int 10, int 20, char +);
