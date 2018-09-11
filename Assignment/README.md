@@ -1,7 +1,9 @@
 # Lab Exercise 0: Introduction to C, Git, and the MSP430
 This exercise was based around implementing a math function defined in "math.h" into "math.c"
 
-## What does this code do?
+The given code, math.h, supplies a format on which to build the math.c code.  Both codes are needed when utilizing in a program because math.h defines the structure of the math function and math.c defines the functions and makes them perform calculations.
+
+## What do these codes do?
 By using the new function, the user can use a variety of different operators to perform calculations on two numbers(num1 and num2).
 
 This differs from using the traditional math function because this program allows for a different structure for calculations:
